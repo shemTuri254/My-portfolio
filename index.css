@@ -1,3 +1,12 @@
 h1 {
-    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;   
+}
+body{
+  
+  background-image: linear-gradient(to bottom , green, rgb(255, 0, 157));
+}
+h2{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;   
 }

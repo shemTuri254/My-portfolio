@@ -1,12 +1,29 @@
 h1 {
-    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
     text-align: center;   
 }
 body{
   
-  background-image: linear-gradient(to bottom , green, rgb(255, 0, 157));
+  background-image: linear-gradient(to left , #3a6186, #89253e);
 }
 h2{
     font-family: Georgia, 'Times New Roman', Times, serif;
     text-align: center;   
+}
+.Centre{
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 150px;
+        height: 250px;
+        border-radius: 10%;
+}
+p{
+    font-size: 20px;
+}
+li{
+    font-size: 15px;
+}
+a{
+    color: blanchedalmond;
 }
